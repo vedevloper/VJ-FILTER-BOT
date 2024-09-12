@@ -98,8 +98,8 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'onepagelink.in')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '111cfc8fb2402f0b2ce471435ec60985da55bdce')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'ziplinker.net')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '4f10081d8a8f9148317422acdfdce44e5a7a33da')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
