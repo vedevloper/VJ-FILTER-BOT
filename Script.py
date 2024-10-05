@@ -6,41 +6,21 @@
 class script(object):
     START_TXT = """<b><blockquote>Hᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
-➠ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗮𝘂𝘁𝗼-𝗳𝗶𝗹𝘁𝗲𝗿 𝗯𝗼𝘁 𝘄𝗶𝘁𝗵 𝗹𝗶𝗻𝗸 𝘀𝗵𝗼𝗿𝘁𝗲𝗻𝗲𝗿 𝗮𝘁 𝘆𝗼𝘂𝗿 𝘀𝗲𝗿𝘃𝗶𝗰𝗲!
+<blockquote>➠ 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗮𝘂𝘁𝗼-𝗳𝗶𝗹𝘁𝗲𝗿 𝗯𝗼𝘁 𝘄𝗶𝘁𝗵 𝗹𝗶𝗻𝗸 𝘀𝗵𝗼𝗿𝘁𝗲𝗻𝗲𝗿 𝗮𝘁 𝘆𝗼𝘂𝗿 𝘀𝗲𝗿𝘃𝗶𝗰𝗲!</blockquote>
 
-𝗔𝗱𝗱 𝗺𝗲 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗳𝗼𝗿 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝗳𝗶𝗹𝘁𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗹𝗶𝗻𝗸 𝘀𝗵𝗼𝗿𝘁𝗲𝗻𝗶𝗻𝗴. 𝗘𝗮𝘀𝘆 𝘁𝗼 𝘂𝘀𝗲 - 𝗷𝘂𝘀𝘁 𝗮𝗱𝗱 𝗺𝗲 𝗮𝘀 𝗮𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗜'𝗹𝗹 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗺𝗼𝘃𝗶𝗲𝘀 𝘄𝗶𝘁𝗵 𝘆𝗼𝘂𝗿 𝘀𝗵𝗼𝗿𝘁𝗲𝗻𝗲𝗱 𝗹𝗶𝗻𝗸𝘀."""
+‎‧₊˚✧ ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇ's ᴀɴᴅ sᴇʀɪᴇ's,
+ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
+ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.‌‎ ✧˚₊‧"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+<blockquote>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</blockquote></b>"""
 
-    ABOUT_TXT = """<b><blockquote>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟</blockquote>
-    
+    ABOUT_TXT = """<b><blockquote>[✯ ᴍʏ ɴᴀᴍᴇ :𝘅𝗙𝗶𝗹𝗲 𝗠𝗼𝘃𝗶𝗲𝘀]/blockquote>
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ᴛᴇᴄʜ ᴠᴊ</a> 
-‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>ʜᴇʀᴏᴋᴜ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
-
-    CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
-    
-‣ ᴍʏ ɴᴀᴍᴇ : {}
-‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=https://t.me/{}>{}</a>
-‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
-
-    CLONE_TXT = """<b>🌟 <u>CLONE MODE</u>
-
-- Yᴏᴜ Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ Bʏ /clone Cᴏᴍᴍᴀɴᴅ 
-- Yᴏᴜ Cᴀɴ Bʀᴏᴀᴅᴄᴀsᴛ Iɴ Yᴏᴜʀ Cʟᴏɴᴇ Bᴏᴛs
-- Aɴᴅ Mɪʟʟɪᴏɴ Oғ Fɪʟᴇs Iɴᴅᴇx Aʟʀᴇᴀᴅʏ Nᴏ Nᴇᴇᴅ Tᴏ Aᴅᴅ Aɴʏ Fɪʟᴇ
-
-👨‍💻 Cᴏᴍᴍᴀɴᴅ : /clone</b>"""
+‣ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
+‣ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
+‣ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
+‣ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
 
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
